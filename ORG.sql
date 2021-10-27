@@ -1,0 +1,5 @@
+INSERT INTO `student_info`(student_number,student_name,birthday,gender,email,contact_no) VALUES ("2019-00388-TG-0","Ivan Rae","February 01, 2001", "Male", "ivanrae@gmail.com", "09123456789");
+INSERT INTO `student_info`(student_number,student_name,birthday,gender,email,contact_no) VALUES ("2019-00389-TG-0","Jhon Busta","March 02, 2001", "Male", "busta@gmail.com", "09123456789");
+INSERT INTO `student_info`(student_number,student_name,birthday,gender,email,contact_no) VALUES ("2019-00390-TG-0","Joshua","April 03, 2001", "Male", "joshua@gmail.com", "09123456789");
+INSERT INTO `student_info`(student_number,student_name,birthday,gender,email,contact_no) VALUES ("2019-00391-TG-0","Rose Kyle","May 04, 2001", "Female", "rose@gmail.com", "09123456789");
+INSERT INTO `student_info`(student_number,student_name,birthday,gender,email,contact_no) VALUES ("2019-00392-TG-0","Bryle","June 05, 2001", "Male", "bryle@gmail.com", "09123456789");
